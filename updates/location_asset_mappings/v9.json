@@ -5633,6 +5633,10 @@
       },
       {
         "location": "kraken",
+        "location_symbol": "LQTY"
+      },
+      {
+        "location": "kraken",
         "location_symbol": "DEGEN"
       },
       {
